@@ -1,6 +1,6 @@
 {
   "name": "nomagic.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A JS framework that does not hide the magic from you",
   "main": "index.mjs",
   "scripts": {
